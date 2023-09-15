@@ -28,7 +28,7 @@
 
 ###
 
-<h3 align="left">I am DevOps & Cloud Enthusiastic, an Open Source Contributor and a Freelancer with more than 3+ years of experience. Feel free to reach out for any Freelance projects</h3>
+<h3 align="left">I am a DevOps & Cloud Enthusiastic, an Open Source Contributor and a Freelancer with more than 3+ years of experience. Feel free to reach out for any Freelance projects</h3>
 
 ###
 
