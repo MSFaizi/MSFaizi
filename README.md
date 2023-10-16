@@ -14,6 +14,9 @@
   <a href="https://twitter.com/shamim_faizi786" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
+  <a href="https://dev.to/msfaizi" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  </a>
 </div>
 
 ###
@@ -28,7 +31,7 @@
 
 ###
 
-<h3 align="left">I am a DevOps & Cloud Enthusiastic, an Open Source Contributor and a Freelancer with more than 3+ years of experience. Feel free to reach out for any Freelance projects</h3>
+<h3 align="left">I am DevOps & Cloud Enthusiastic, an Open Source Contributor and a Freelancer with more than 3+ years of experience. Feel free to reach out for any Freelance projects.</h3>
 
 ###
 
@@ -36,7 +39,7 @@
 
 ###
 
-<p align="left">I'm Shamim from India<br><br>- 🔭 I’m working as DevOps/Cloud Engineer<br>- 📚 I'm currently learning Go Lang<br>- ⚡ In my free time I like to do some DevOps and Cloud projects to get more and more hands on</p>
+<p align="left">I'm Shamim from India<br><br>- 🔭 I’m working as DevOps/Cloud Engineer<br>- 📚 I'm currently learning Go Lang<br>- ⚡ In my free time I like to do some DevOps and Cloud projects to get more and more hands on<br>- 📝 I regularly write articles on Hashnode</p>
 
 ###
 
