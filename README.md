@@ -37,11 +37,11 @@
 
 <h4 align="left">👩‍💻  About Me</h4>
 
-###
 
-<p align="left">I'm Shamim from India<br><br>- 🔭 I’m working as DevOps/Cloud Engineer<br>- 📚 I'm currently learning Go Lang<br>- ⚡ In my free time I like to do some DevOps and Cloud projects to get more and more hands on<br>- 📝 I regularly write articles on Hashnode</p>
 
-###
+<p align="left">I'm Shamim from India<br><br>- 🔭 I’m working as DevOps/Cloud Engineer<br>- 📚 I'm currently learning Go Lang<br>- ⚡ In my free time I like to do some DevOps and Cloud projects to get more and more hands on<br>- 📝 I regularly write articles on:  </p> 
+
+[Hashnode](https://shamim-faizi.hashnode.dev/) | [dev.to](https://dev.to/msfaizi) 
 
 <h3 align="left">🛠 Language and tools</h3>
 
